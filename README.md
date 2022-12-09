@@ -1,4 +1,4 @@
-# About Me:
+# 🙋‍♂️ About Me:
 I am a Computer Engineer with a passion for Embedded Systems and Software Engineering.<br>Let's connect on LinkedIn<br>
 
 
