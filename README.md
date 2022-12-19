@@ -1,8 +1,4 @@
-# 🙋‍♂️ About Me:
-I am a Computer Engineer with a passion for Embedded Systems and Software Engineering.<br>Let's connect on LinkedIn<br>
-
-
-## 🌐 Socials:
+## 🌐 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalvinmccallum/) 
 
 # 💻 Tech Stack:
